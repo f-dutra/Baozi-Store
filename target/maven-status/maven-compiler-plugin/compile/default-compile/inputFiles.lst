@@ -1,0 +1,10 @@
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/model/Cliente.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/model/Produto.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/controller/ClienteController.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/repository/PedidoRepository.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/controller/PedidoController.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/controller/ProdutoController.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/model/Pedido.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/BaoziStoreApplication.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/repository/ClienteRepository.java
+/home/dutra/.local/src/baozi-store/src/main/java/com/baozi/store/repository/ProdutoRepository.java
